@@ -1,15 +1,15 @@
 # DeepThought AI Business Analyst Assignment (Ecommerce)
 
-This repository contains my completed assignment solution for the AI Business Analyst (Ecommerce) role at DeepThought. The project covers unit economics modeling, dynamic scenario planning for Amazon India advertising campaigns, and a systems-thinking analysis of multi-brand operational performance.
+This repository contains my completed assignment solution for the AI Business Analyst (Ecommerce) role at DeepThought. The project covers unit economics modeling, dynamic scenario planning for Amazon India advertising campaigns and a systems-thinking analysis of multi-brand operational performance.
 
 ---
 
 ## 📊 Project Components
 
-*   **Task 1: Campaign Viability Analysis** – Deep-dive financial analysis of unit economics, net margins, and break-even thresholds for the fictional premium skincare brand "GlowNest".
+*   **Task 1: Campaign Viability Analysis** – Deepdive financial analysis of unit economics, net margins and break-even thresholds for the fictional premium skincare brand "GlowNest".
 *   **Task 2: Dynamic Profitability Model** – Operational logic and cell formula mappings used to construct an interactive scenario simulator in Google Sheets.
 *   **Task 3: Operational Scenario Analysis** – A consolidated tactical report using "V1 execution with V3 systems-level eyes" to identify macro patterns across three separate active brand accounts.
-*   **Process Documentation** – A comprehensive overview of how I systematically co-piloted with AI tools to learn definitions, clarify parameters, structure scenarios, and maintain total analytical control.
+*   **Process Documentation** – A comprehensive overview of how I systematically co-piloted with AI tools to learn definitions, clarify parameters, structure scenarios and maintain total analytical control.
 
 ---
 
@@ -48,4 +48,4 @@ Instead of looking at FreshBasket, UrbanPulse, and NestWell as isolated accounts
 *   **The Reporting Friction Point:** Both FreshBasket and NestWell flagged issues understanding the daily spend breakdown columns. This indicates a flaws in our default report design rather than an issue with the clients. Simplifying our reporting structure will save operational communication hours.
 *   **The Invisible Effort Risk:** UrbanPulse consumed 12 hours of deep backend architecture work, yet the client feels "nothing is happening" and is comparing us to a past agency. To prevent churn, we must transform this invisible operational work into visible value by using quick asynchronous video updates.
 *   **Cross-Channel Opportunity Identification:** NestWell's steady Amazon baseline leaves room for channel diversification. Activating their unutilized Flipkart storefront allows us to cross-sell our marketplace management services and capture early market share with low initial ad competition.
-*
+
