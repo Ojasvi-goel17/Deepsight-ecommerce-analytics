@@ -9,7 +9,7 @@ To review my dynamic working model, hand-drawn diagrams, and oral explanations, 
 * 🎧 **[Listen to Task : ROAS, ACOS, TACOS](https://drive.google.com/file/d/1Dz3cunvXRQK4xTPNJhaN233HGXN3a8Y3/view?usp=drive_link)**
 * 🎧 **[Listen to Part B and Part A: Strategic MD Conversation Reflection](https://drive.google.com/file/d/18f9SIX40jjLh61RAhfPtlVxHjE6hv7GN/view?usp=drive_link)**
 * 📁 **[Access Complete Master Folder](https://drive.google.com/drive/folders/1agEgj4eOiToGvCZ5Uyd8AUW5Qr5poHt1?usp=sharing)**
-*
+
 
 This repository contains my completed assignment solution for the AI Business Analyst (Ecommerce) role at DeepThought. The project covers unit economics modeling, dynamic scenario planning for Amazon India advertising campaigns and a systems-thinking analysis of multi-brand operational performance.
 
